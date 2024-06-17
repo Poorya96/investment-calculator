@@ -1,8 +1,16 @@
-# React + Vite
+![image](https://github.com/Poorya96/investment-calculator/assets/50921340/e5d0eb94-8ed5-4efa-a537-54c6438a01d6)
+Investment Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Investment Calculator built using React and Vite. The calculator allows users to input their initial investment, annual investment, expected return rate, and the number of years to simulate the growth of their investments over time.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+User-friendly interface to input investment parameters.
+
+Real-time calculation and display of investment growth.
+
+Breakdown of investment value, interest earned, and total capital invested over the specified period.
+
+Built using React components for a modular and maintainable codebase.
+
+Fast build and development with Vite.
